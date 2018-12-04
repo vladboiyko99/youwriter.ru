@@ -1,7 +1,7 @@
 {
   "autoload": {
     "psr-4": {
-      "youwriter\\": "vendor/youwriter",
+      "youwriter\\": "vendor/youwriter/core",
       "app\\": "app"
     }
   },
