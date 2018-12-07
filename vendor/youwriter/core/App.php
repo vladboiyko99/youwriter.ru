@@ -14,6 +14,7 @@ class App
         self::$app = Registry::instance();
         $this->getparsms();
         new ErrorHandier();
+        Router::dispatch($query);
 
     }
 
