@@ -3,7 +3,7 @@
 namespace youwriter;
 
 
-class ErrorHandier
+class ErrorHandler
 {
 
     public function __construct()

@@ -220,3 +220,43 @@
 ================
 [2018-12-07 12:34:07] Текст ошибки: Страница не найдена | Фаил E:\OSPanel\domains\youwriter.ru\public\index.php | Строка 8
 ================
+[2018-12-08 16:42:57] Текст ошибки: Страница не найдена | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 32
+================
+[2018-12-08 16:43:03] Текст ошибки: Страница не найдена | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 32
+================
+[2018-12-08 16:43:39] Текст ошибки: Страница не найдена | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 32
+================
+[2018-12-08 16:48:28] Текст ошибки: Страница не найдена | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 33
+================
+[2018-12-08 17:37:08] Текст ошибки: Контроллер app\controllers\NewController не найдена | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 37
+================
+[2018-12-08 17:38:32] Текст ошибки: Контроллер app\controllers\NewController не найдена | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 39
+================
+[2018-12-08 17:38:39] Текст ошибки: Контроллер app\controllers\MainController не найдена | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 39
+================
+[2018-12-08 17:41:25] Текст ошибки: Контроллер app\controllers\MainController не найдена | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 39
+================
+[2018-12-08 17:47:46] Текст ошибки: Страница не найдена | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 43
+================
+[2018-12-08 17:48:57] Текст ошибки: Контроллер app\controllers\PageController не найден | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 34
+================
+[2018-12-08 17:49:02] Текст ошибки: Контроллер app\controllers\PageController не найден | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 34
+================
+[2018-12-08 17:49:11] Текст ошибки: Контроллер app\controllers\PageController не найден | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 34
+================
+[2018-12-08 17:49:12] Текст ошибки: Контроллер app\controllers\PageController не найден | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 34
+================
+[2018-12-08 17:49:13] Текст ошибки: Контроллер app\controllers\PageController не найден | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 34
+================
+[2018-12-08 17:49:55] Текст ошибки: Контроллер app\controllers\PageController не найден | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 34
+================
+[2018-12-08 17:50:13] Текст ошибки: Контроллер app\controllers\MainController не найден | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 34
+================
+[2018-12-08 17:50:41] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 31
+================
+[2018-12-08 17:51:31] Текст ошибки: Контроллер app\controllers\MainController не найден | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 34
+================
+[2018-12-08 17:52:42] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 31
+================
+[2018-12-08 17:58:01] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 31
+================

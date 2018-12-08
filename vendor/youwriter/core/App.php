@@ -10,10 +10,11 @@ class App
     public function  __construct()
     {
         $query = trim($_SERVER['QUERY_STRING'], '/');
+       // var_dump($query);
         session_start();
         self::$app = Registry::instance();
         $this->getparsms();
-        new ErrorHandier();
+        new ErrorHandler();
         Router::dispatch($query);
 
     }
