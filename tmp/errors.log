@@ -286,3 +286,17 @@
 ================
 [2018-12-10 05:47:20] Текст ошибки: Не найден шаблон C:\OS\OSPanel\domains\youwriter.ru/app/views/layouts/default.php | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\base\View.php | Строка 61
 ================
+[2018-12-10 19:12:09] Текст ошибки: Не найден шаблон C:\OS\OSPanel\domains\youwriter.ru/app/views/layouts/default.php | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\base\View.php | Строка 61
+================
+[2018-12-10 19:12:09] Текст ошибки: Страница не найдена | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\Router.php | Строка 50
+================
+[2018-12-10 19:12:52] Текст ошибки: Не найден шаблон C:\OS\OSPanel\domains\youwriter.ru/app/views/layouts/default.php | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\base\View.php | Строка 61
+================
+[2018-12-10 19:55:19] Текст ошибки: Не найден шаблон C:\OS\OSPanel\domains\youwriter.ru/app/views/layouts/default.php | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\base\View.php | Строка 61
+================
+[2018-12-10 20:08:05] Текст ошибки: На найден шаблон default | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\base\View.php | Строка 52
+================
+[2018-12-10 20:08:50] Текст ошибки: На найден шаблон default | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\base\View.php | Строка 52
+================
+[2018-12-10 20:14:43] Текст ошибки: На найден шаблон default | Фаил C:\OS\OSPanel\domains\youwriter.ru\vendor\youwriter\core\base\View.php | Строка 60
+================

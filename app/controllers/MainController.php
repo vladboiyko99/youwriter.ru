@@ -8,11 +8,15 @@
 
 namespace app\controllers;
 
+use youwriter\App;
+
 class MainController extends AppController
 {
 
     public function indexAction()
     {
         //echo __METHOD__;
+        $this->setMeta(App::$app->getProperty('name'), 'Описания', 'ключи');
+        $this->set(['name' => 'andrei','age'=>30]);
     }
 }

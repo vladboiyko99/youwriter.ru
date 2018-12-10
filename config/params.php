@@ -3,7 +3,7 @@
 return [
 
     'admin' => 'test',
-    'shop' => 'test2',
+    'name' => 'Ты писатель!?',
     'paginatio' => 3,
     'smtp_login' => '',
     'smtp_password' => '',
